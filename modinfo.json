@@ -1,0 +1,16 @@
+{
+  "mods": [
+    {
+      "name": "Prophet's Real Tempered Glass Mod",
+      "author": "Prophet",
+      "version": "1",
+      "compatibility": "w166",
+      "description": "Prophet's Robust Explorer and Healthy Maverick Fix is simply a UI glitch fix",
+      "files": {
+        "exmodz": "https://github.com/Icarus-Prophet/Tempered_Glass_Real/blob/main/Prophet's%20Real%20Tempered%20Glass.EXMODZ"
+      },
+      "imageURL": "https://github.com/Icarus-Prophet/Tempered_Glass_Real/blob/main/ImageOnly.png",
+      "readmeURL": "https://github.com/Icarus-Prophet/Tempered_Glass_Real/blob/main/Prophets_Real_Tempered_GlassReadme.txt"
+    }
+  ]
+}
