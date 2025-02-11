@@ -1,4 +1,4 @@
-Icarus_Mods
+Icarus-Prophet
 Mods for the RocketWerkz game Icarus
 
 10 Feb 2025 - Prophet's Real Tempered Glass Mod
